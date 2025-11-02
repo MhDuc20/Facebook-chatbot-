@@ -1,0 +1,81 @@
+1. Chuẩn bị về mặt pháp lý
+Đăng ký sử dụng HĐĐT:
+Yêu cầu: Hộ kinh doanh phải đăng ký sử dụng HĐĐT với cơ quan thuế qua Cổng thông tin điện tử Tổng cục Thuế (etax.gov.vn).
+Hồ sơ cần chuẩn bị:
+Mẫu 01/ĐK-HĐĐT: Tờ khai đăng ký/thay đổi thông tin sử dụng HĐĐT (theo Phụ lục IA, Nghị định 123/2020/NĐ-CP).
+Thông tin hộ kinh doanh: Mã số thuế, giấy chứng nhận đăng ký kinh doanh, thông tin người đại diện.
+Thông tin tài khoản ngân hàng (nếu cần): Để xác nhận giao dịch với cơ quan thuế hoặc nhà cung cấp dịch vụ HĐĐT.
+=> Truy cập Cổng thông tin điện tử Tổng cục Thuế, điền mẫu 01/ĐK-HĐT, nộp trực tuyến. Hệ thống sẽ tự động đối chiếu thông tin và xác nhận (thường trong 1-3 ngày làm việc).
+
+2. Hệ thống phần mềm HĐĐT:
+Chọn nhà cung cấp dịch vụ HĐĐT: Một số đơn vị uy tín tại Việt Nam:
+Viettel Money, MISA, VNPT Invoice, FPT, BKAV, hoặc KiotViet.
+Chi phí: Khoảng 500-1.000 VNĐ/hóa đơn hoặc gói tháng/năm (300.000-1.500.000 VNĐ/năm tùy nhà cung cấp).
+Yêu cầu kỹ thuật:
+Máy tính hoặc điện thoại thông minh có kết nối internet.
+Phần mềm HĐĐT được cài đặt và tích hợp với cơ quan thuế.
+Nếu dùng HĐĐT có mã, cần đảm bảo kết nối với hệ thống cấp mã của Tổng cục Thuế.
+Hành động: Liên hệ nhà cung cấp, ký hợp đồng, cài đặt phần mềm, và thiết lập thông tin hộ kinh doanh (mã số thuế, tên, địa chỉ) trong hệ thống.
+Máy tính tiền (nếu doanh thu ≥ 1 tỷ đồng/năm):
+Thiết bị cần thiết: Mua hoặc thuê máy tính tiền có khả năng kết nối dữ liệu với cơ quan thuế (như Casio, Tanca, KiotViet POS).
+
+Chi phí: 5-20 triệu đồng (mua thiết bị) hoặc thuê từ 500.000-1.000.000 VNĐ/tháng.
+Yêu cầu: Máy phải được đăng ký với cơ quan thuế, có phần mềm tích hợp xuất HĐĐT tự động.
+Hành động: Mua thiết bị từ nhà cung cấp uy tín, đăng ký thông tin máy với cơ quan thuế qua Cổng thông tin điện tử.
+Chữ ký số (chứng thư số):
+Yêu cầu: Bắt buộc để ký HĐĐT, đảm bảo tính pháp lý và bảo mật.
+Chuẩn bị:
+Mua chữ ký số từ các nhà cung cấp như Viettel-CA, VNPT-CA, FPT-CA (chi phí khoảng 1-3 triệu đồng/năm).
+Cài đặt chữ ký số trên máy tính hoặc USB token.
+Hành động: Liên hệ nhà cung cấp chữ ký số, cung cấp giấy đăng ký kinh doanh và CMND/CCCD người đại diện để đăng ký.
+3. Chuẩn bị về nhân sự và quy trình
+Đào tạo nhân viên:
+Nội dung đào tạo:
+
+Cách sử dụng phần mềm HĐĐT hoặc máy tính tiền để lập hóa đơn.
+Quy định về thời điểm lập hóa đơn (ngay khi bán hàng/hoàn thành dịch vụ).
+Cách xử lý sai sót (lập hóa đơn điều chỉnh/thay thế, kèm văn bản thỏa thuận nếu cần).
+
+Hành động: Tổ chức buổi hướng dẫn với nhà cung cấp phần mềm/máy tính tiền hoặc tự đào tạo qua tài liệu hướng dẫn.
+Quy trình nội bộ:
+Thiết lập quy trình xuất HĐĐT cho mỗi giao dịch:
+Ghi nhận doanh thu, lập hóa đơn, ký số, gửi dữ liệu cho cơ quan thuế.
+Nếu khách không lấy hóa đơn, vẫn phải lập HĐĐT và lưu trữ.
+Kiểm tra định kỳ dữ liệu HĐĐT để đảm bảo khớp với doanh thu thực tế.
+4. Chuẩn bị lưu trữ và kiểm tra
+Lưu trữ HĐĐT:
+Yêu cầu: Lưu trữ HĐĐT ít nhất 10 năm theo Luật Kế toán.
+Chuẩn bị: Sử dụng hệ thống lưu trữ của nhà cung cấp HĐĐT hoặc lưu file XML/PDF trên máy tính/đám mây.
+Hành động: Thiết lập thư mục lưu trữ, sao lưu định kỳ, đảm bảo sẵn sàng cung cấp khi cơ quan thuế kiểm tra.
+Kiểm tra định kỳ:
+Yêu cầu: Đảm bảo dữ liệu HĐĐT khớp với tờ khai thuế (theo Thông tư 40/2021/TT-BTC).
+Hành động: Kiểm tra hàng tháng/quý, đối chiếu doanh thu từ HĐĐT với sổ sách kế toán (nếu có) hoặc tờ khai thuế.
+Các bước thực hiện cụ thể
+Đánh giá quy mô hàng quán:
+Xác định doanh thu (dưới hay trên 1 tỷ đồng/năm) để chọn loại HĐĐT (có mã, không có mã, hoặc máy tính tiền).
+Đăng ký với cơ quan thuế:
+Nộp mẫu 01/ĐK-HĐĐT qua Cổng thông tin điện tử Tổng cục Thuế.
+Nếu dùng máy tính tiền, đăng ký thêm thông tin thiết bị.
+Ký hợp đồng với nhà cung cấp:
+Chọn nhà cung cấp HĐĐT hoặc máy tính tiền (Viettel, MISA, KiotViet, v.v.).
+Mua chữ ký số từ Viettel-CA, VNPT-CA, hoặc FPT-CA.
+Cài đặt hệ thống:
+Cài đặt phần mềm HĐĐT hoặc cấu hình máy tính tiền.
+Kích hoạt chữ ký số, tích hợp với hệ thống cơ quan thuế.
+Đào tạo và triển khai:
+Hướng dẫn nhân viên cách lập HĐĐT, truyền dữ liệu, và xử lý sai sót.
+Bắt đầu xuất HĐĐT cho mỗi giao dịch từ ngày được cơ quan thuế chấp thuận.
+Theo dõi và lưu trữ:
+Kiểm tra việc truyền dữ liệu HĐĐT đúng hạn (theo tháng/quý).
+Lưu trữ HĐĐT và đối chiếu với tờ khai thuế.
+P/s :
+- Máy tính tiền tích hợp HĐĐT KiotViet POS: mua luôn khoảng 5-20tr, thuê 500/tháng.
+- Chữ kí số: 125k/tháng
+- Phần mềm HĐĐT
+= 625k/tháng
+Giảm thuế: 
+* Đăng kí người phụ thuộc:  4.4 triệu VNĐ/tháng/người. (tương đương 52.8 triệu VNĐ/năm).Mẫu 20/ĐK-TCT, bản sao CMND/CCCD, giấy khai sinh, hoặc giấy tờ chứng minh quan hệ.
+* Người nộp thuế: 11 triệu VNĐ/tháng (tương đương 132 triệu VNĐ/năm). (Cái này là chỉ cần đóng thuế số tiền trên 11 triệu) Tự động khấu trừ khi nộp mẫu 01/CNKD.
+* Hộ mới thành lập: Miễn thuế môn bài năm đầu.
+
+=>Nộp Mẫu 01/CNKD qua etax.gov.vn trước 20/12 để áp dụng từ năm 2026.
