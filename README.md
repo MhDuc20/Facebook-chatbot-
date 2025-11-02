@@ -1,4 +1,4 @@
-# HDDHT Messenger Bot - E-Invoice Consulting Chatbot
+#E-Invoice Consulting Chatbot
 
 > **Automatically receive Facebook messages → Process with AI RAG → Answer accurately based on documents**
 
